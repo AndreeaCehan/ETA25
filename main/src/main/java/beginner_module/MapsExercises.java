@@ -112,14 +112,7 @@ public class MapsExercises {
        - Foloseste .forEach() pentru a itera prin HashMap.
        - Printeaza fiecare pereche cheie-valoare.
 
-    In main(), apeleaza toate functiile si testeaza-le.
-
-    --------------------------------------------------------
-    Obiectiv:
-    --------------------------------------------------------
-    - Intelegi cum functioneaza metodele comune ale unui HashMap.
-    - Exersezi iterarea unui HashMap folosind entrySet() si forEach().
-    - Te obisnuiesti cu lambda functions in Java.
+    In main(), apeleaza toate functiile.
 
     --------------------------------------------------------
     */
